@@ -1,4 +1,4 @@
-| Pmod #  |  SOM Nmae      |  FPGA Pin |
+| Pmod #  |  SOM IO Name      |  FPGA Pin |
 |----------|:-------------:|------:|
 | pmod1_pin1 | som240_1_a17 | H12 | 
 | pmod1_pin2 | som240_1_d20 | E10 | 
@@ -9,7 +9,7 @@
 | pmod1_pin7 | som240_1_b22 | D11 | 
 | pmod1_pin8 | som240_1_c22 | B11 | 
 
-| Pmod #  |      SOM Nmae      |  FPGA Pin |
+| Pmod #  |      SOM IO Name      |  FPGA Pin |
 |----------|:-------------:|------:|
 | pmod2_pin1 | som240_1_d18 | J11 | 
 | pmod2_pin2 | som240_1_b16 | J10 | 
@@ -20,7 +20,7 @@
 | pmod2_pin7 | som240_1_c20 | F12 | 
 | pmod2_pin8 | som240_1_a15 | F11 | 
 
-| Pmod #  |      SOM Nmae      |  FPGA Pin |
+| Pmod #  |      SOM IO Name      |  FPGA Pin |
 |----------|:-------------:|------:|
 | pmod3_pin1 | som240_2_d44 | AE12 | 
 | pmod3_pin2 | som240_2_d45 | AF12 | 
@@ -31,7 +31,7 @@
 | pmod3_pin7 | som240_2_c46 | AH12 | 
 | pmod3_pin8 | som240_2_c47 | AH11 | 
 
-| Pmod #  |      SOM Nmae      |  FPGA Pin |
+| Pmod #  |      SOM IO Name      |  FPGA Pin |
 |----------|:-------------:|------:|
 | pmod4_pin1 | som240_2_c48 | AC12 | 
 | pmod4_pin2 | som240_2_c50 | AD12 | 
